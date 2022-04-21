@@ -94,13 +94,3 @@ install_manifest.txt
 compile_commands.json
 CTestTestfile.cmake
 
-build/*
-build-nix/*
-build-win/*
-abrade.dir/*
-abrade_test.dir/*
-abradelib.dir/*
-abradetestlib.dir/*
-x64/*
-cmake-build-release/
-.DS_Store
